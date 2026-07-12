@@ -1,0 +1,5 @@
+main-class: delta.cion.DecaSpawn
+
+plugin-id: "deca_spawn"
+plugin-name: "Decadence Spawn"
+command-prefix: "deca-spawn"

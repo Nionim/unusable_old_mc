@@ -1,0 +1,7 @@
+main-class: delta.cion.DecaVelocity
+
+plugin-id: "deca_velocity"
+plugin-name: "Decadence Velocity"
+command-prefix: "deca-velocity"
+
+message-list: true

@@ -1,0 +1,5 @@
+main-class: delta.cion.BlockHandlers
+
+plugin-id: "block_handlers"
+plugin-name: "Block Handlers"
+command-prefix: "b-handlers"

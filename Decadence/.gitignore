@@ -1,0 +1,12 @@
+# ==================== #
+# By: Lmao stupid Cion #
+# ==================== #
+
+# <= decadence.tests.Main => #
+.idea
+.gradle
+build
+gradle
+gradlew
+gradlew.bat
+.gitattributes
